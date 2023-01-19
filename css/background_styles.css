@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(39, 60, 68);
+    padding: 10px;
+    border
+}
+
+.grid-item {
+    margin: 0 auto;
+    background-color: #3366ff;
+    padding: 20px;
+    border: 1px solid black;
+  }
